@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Library>
+  <Book>
+    <Title>CLR via C#</Title>
+    <Author>Jeffrey Richter</Author>
+    <Price>50.99</Price>
+    <Category>Programming</Category>
+  </Book>
+  <Book>
+    <Title>Refactoring</Title>
+    <Author>Martin Fowler</Author>
+    <Price>55.00</Price>
+    <Category>Software Engineering</Category>
+  </Book>
+</Library>
